@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me 👋🏻
+
+I'm a data scientist, investor and NFT collector from the UK. I'm currently studying BSc Data Science at a Russell Group UK university, on track to recieve a first class honours. I'm proficient in Python and R as well as having experience in Java, SQL and HTML. Alongside my university degree I actively trade cryptocurrency and crypto assets including both large and small market cap tokens as well as non-fungible tokens on the Ethereum mainnet, Ethereum layer 2 chains, Solana and SUI among others.
+
+Currently I'm working on improving my skills around development on the Solana blockchain by learning the process of building and deploying Rust based programs to the chain. I'm hoping to attend more in-person crypto events this year to help deepen my understanding of the back-end development of cryptocurrency applications I use daily, on top of networking with others in the space and potentially finding work and gaining experience. It is also my aim to find a way to use my data science specific knowledge to provide services or software products to investors in crypto and to take that idea and turn it into a functional business (I don't want to work a 9-5!).
 
 <!--
 **TobInWeb3/TobInWeb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
