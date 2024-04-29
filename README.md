@@ -6,8 +6,8 @@ Currently I'm working on improving my skills around development on the Solana bl
 
 ### 📫 How to reach me:
 
-The best way to contact me is on X (Twitter): @t0b_s0l
-You can also contact me via my email which is my GitHub username with @gmail.com appended to the end (avoiding writing my whole email for the potential of bot spam).
+- The best way to contact me is on X (Twitter): @t0b_s0l
+- You can also contact me via my email which is my GitHub username with @gmail.com appended to the end (avoiding writing my whole email for the potential of bot spam).
 
 ### 🌱 I’m currently learning
 - Rust programming language
